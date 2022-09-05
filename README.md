@@ -32,3 +32,5 @@ To learn more about the technologies used in this site template, see the followi
 
 - [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
 - [Next.js](https://nextjs.org/docs) - the official Next.js documentation
+
+Just adding more text.
